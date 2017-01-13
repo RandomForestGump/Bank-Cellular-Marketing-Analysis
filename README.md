@@ -1,2 +1,4 @@
 # Bank-Cellular-Marketing-Analysis
-Dataset contains description of a Porteguese Bank which has a marketing scheme involving only telephonic conversation with a client, we have to correctly classify on test set whether the scheme was accepted by the client or not
+The data is related with direct marketing campaigns of a Portuguese banking institution involving phone calls only, our aim is to predict on test set whether the scheme was accepted by the client or not
+For more details or downloading the csv file,
+https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
